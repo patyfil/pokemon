@@ -2,18 +2,18 @@
 
 # Projeto Pokedéx com HTML, CSS e JavaScript  
 
-<div align="center"> Desktop  
-<img src="https://github.com/patyfil/pokemon/blob/main/src/img/desktop1.jpg"  
+<div align="center"> Desktop  <br />
+<img src="https://github.com/patyfil/pokemon/blob/main/src/img/desktop1.jpg" width="70%" /> 
 <div/>
 
 <br />
   
 <div align="center"> Mobile  <br />
-<img src="https://github.com/patyfil/pokemon/blob/main/src/img/mobile1.jpg"  
+<img src="https://github.com/patyfil/pokemon/blob/main/src/img/mobile1.jpg" width="30%" /> 
 <div/>
 
 <br />
 <br />
 <div align="center">
-<img src="https://github.com/patyfil/pokemon/assets/41968938/ead25766-2bc6-4c6a-af7a-7e05a729905e" width="50%" >
+<img src="https://github.com/patyfil/pokemon/assets/41968938/ead25766-2bc6-4c6a-af7a-7e05a729905e" width="50%" />
 <div/>
