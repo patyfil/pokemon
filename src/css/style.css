@@ -1,14 +1,3 @@
-@font-face {
-    font-family: 'Pokemon';
-    src: url('../font/Pokemon\ Hollow.ttf') format('truetype');
-    src: url('../font/Pokemon\ Solid.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'Pocket Monk';
-    src: url('../font/Pocket\ Monk.otf') format('truetype');
-}
-
 :root {
     --hover-color: #CCEAFC;
     --fonte-cor-escura: #4b4949;
