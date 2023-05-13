@@ -1,12 +1,13 @@
 :root {
     --hover-color: #CCEAFC;
     --fonte-cor-escura: #4b4949;
-    --fonte-cor-clara: #F5F5F5;
-    --background-escuro: #212121;
+    --fonte-cor-clara: #dfdbdb;
+    --background-escuro: #272727;
     --background-claro: #8B8989;
     --border: 2px solid #79A3D9;
     --border-test: 2px solid #1dbe40;
-    --cartao: #e5e6db;
+    --cartao-claro: #FDF4E7;
+    --cartao-escuro: #5d5e5c;
     --hover-cartao: #B6DBF2;
     --rosa: #FCD9FC;
     --azul: #CCEAFC;
@@ -67,7 +68,7 @@ main .cartao-pokemon {
     flex-direction: column;
     align-items: center;
 
-    background-color: var(--cartao);
+    background-color: var(--cartao-claro);
     width: 200px;
     padding: 15px;
     gap: 15px;
@@ -84,7 +85,7 @@ main .cartao-pokemon:hover {
 }
 
 .modo-escuro .cartao-pokemon {
-    background-color: antiquewhite;
+    background-color: var(--cartao-escuro);
 }
 
 main .cartao-pokemon .informacoes {
@@ -124,7 +125,7 @@ main .cartao-pokemon .tipo {
 }
 
 .fogo {
-    background-color: #f8a566;
+    background-color: #f59a55;
 }
 
 .agua {
@@ -132,7 +133,7 @@ main .cartao-pokemon .tipo {
 }
 
 .inseto {
-    background-color: #7ee295;
+    background-color: #4d9c5f;
 }
 
 main .descricao {
