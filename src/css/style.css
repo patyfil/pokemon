@@ -80,6 +80,7 @@ main .cartao-pokemon:hover {
     transform: scale(1.04);
     cursor: pointer;
     color: #3b3a3a;
+    box-shadow: 2px 2px 15px #d5df50;
 }
 
 .modo-escuro .cartao-pokemon {
