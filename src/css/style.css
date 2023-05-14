@@ -20,13 +20,17 @@ body {
     font-family: 'Poppins', sans-serif;
     max-width: 1280px;
     margin: 0 auto;
-    background-color: var(--background-claro);
+    /* background-color: var(--background-claro); */
     color: var(--fonte-cor-escura);
+    background: url(../img/bg-dia1.jpg) center no-repeat;
+    background-size: cover;
 }
 
 body.modo-escuro {
-    background-color: var(--background-escuro);
+    /* background-color: var(--background-escuro); */
     color: var(--fonte-cor-clara);
+    background: url(../img/bg-noite.jpg) center no-repeat;
+    background-size: cover;
 }
 
 header {
