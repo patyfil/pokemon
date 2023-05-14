@@ -1,4 +1,4 @@
 function toggleMode() {
-    const body = document.documentElement
-    body.classList.toggle("modo-escuro")  // padrão dia
+    const html = document.documentElement
+    html.classList.toggle("modo-escuro")  // padrão dia
 }
