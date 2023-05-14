@@ -15,13 +15,13 @@
 <br />
   
 <div align="center"> Mobile Claro <br />
-<img src="https://github.com/patyfil/pokemon/blob/main/src/img/mobile1.jpg" width="30%" /> 
+<img src="https://github.com/patyfil/pokemon/blob/main/src/img/mobile1.png" width="30%" /> 
 <div/>
 
 <br />
   
 <div align="center"> Mobile Escuro <br />
-<img src="https://github.com/patyfil/pokemon/blob/main/src/img/mobile2.jpg" width="30%" />
+<img src="https://github.com/patyfil/pokemon/blob/main/src/img/mobile2.png" width="30%" />
 <div/>
 
 <br />
