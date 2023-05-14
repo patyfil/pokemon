@@ -246,3 +246,9 @@ main .descricao {
     font-size: 14px;
     padding-right: 10px;
 }
+
+@media only screen and (max-width: 1000px) {
+    header .pokedex {
+        width: 150px;
+    }
+}
